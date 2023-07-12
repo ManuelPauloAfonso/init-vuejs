@@ -1,10 +1,10 @@
 <script setup>
-import InitVue from './components/InitVue.vue';
+import Todo from './views/Todo.vue';
 
 </script>
 
 <template>
-  <InitVue msg="Iniciando no Vuejs" />
+  <Todo />
 </template>
 
 <style scoped>
